@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "test coverage for [googleanalytics (v0.3.7)](https://github.com/ncb000gt/node-googleanalytics) [![npm package](https://img.shields.io/npm/v/npmtest-googleanalytics.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-googleanalytics) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-googleanalytics.svg)](https://travis-ci.org/npmtest/node-npmtest-googleanalytics)",
+    "description": "#### basic test coverage for  [googleanalytics (v0.3.7)](https://github.com/ncb000gt/node-googleanalytics)  [![npm package](https://img.shields.io/npm/v/npmtest-googleanalytics.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-googleanalytics) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-googleanalytics.svg)](https://travis-ci.org/npmtest/node-npmtest-googleanalytics)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "googleanalytics": "*",

@@ -1,4 +1,7 @@
-# test coverage for  [googleanalytics (v0.3.7)](https://github.com/ncb000gt/node-googleanalytics)  [![npm package](https://img.shields.io/npm/v/npmtest-googleanalytics.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-googleanalytics) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-googleanalytics.svg)](https://travis-ci.org/npmtest/node-npmtest-googleanalytics)
+# npmtest-googleanalytics
+
+#### basic test coverage for  [googleanalytics (v0.3.7)](https://github.com/ncb000gt/node-googleanalytics)  [![npm package](https://img.shields.io/npm/v/npmtest-googleanalytics.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-googleanalytics) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-googleanalytics.svg)](https://travis-ci.org/npmtest/node-npmtest-googleanalytics)
+
 #### Google Analytics library.
 
 [![NPM](https://nodei.co/npm/googleanalytics.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/googleanalytics)
@@ -7,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-googleanalytics/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-googleanalytics/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-googleanalytics/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-googleanalytics/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-googleanalytics/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-googleanalytics/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-googleanalytics/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-googleanalytics/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-googleanalytics/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-googleanalytics/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-googleanalytics/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-googleanalytics/build/coverage.html/index.html)
 
@@ -94,7 +97,8 @@
         "url": "git+ssh://git@github.com/ncb000gt/node-googleanalytics.git"
     },
     "scripts": {},
-    "version": "0.3.7"
+    "version": "0.3.7",
+    "bin": {}
 }
 ```
 
